@@ -1,0 +1,158 @@
+@import url(./reset.css);
+
+
+@import url(../desktop/header/header-xxl.css) only screen and ( min-width:1400px);
+
+@import url(../desktop/header/header-xl.css) only screen and ( min-width:1200px) and (max-width:1400px);
+
+@import url(../desktop/header/header-lg.css) only screen and ( min-width:992px) and (max-width:1200px);
+
+@import url(../desktop/header/header-md.css) only screen and ( min-width:768px) and (max-width:992px);
+
+@import url(../desktop/header/header-sm.css) only screen and ( min-width:576px) and (max-width:768px);
+
+@import url(../desktop/header/header-xs.css) only screen and (max-width:576px);
+
+
+
+
+@import url(./contact-us.css);
+
+
+
+
+@import url(../desktop/collection/collection-xxl.css) only screen and ( min-width:1400px);
+
+@import url(../desktop/collection/collection-xl.css) only screen and ( min-width:1200px) and (max-width:1400px);
+
+@import url(../desktop/collection/collection-lg.css) only screen and ( min-width:992px) and (max-width:1200px);
+
+@import url(../desktop/collection/collection-md.css) only screen and ( min-width:768px) and (max-width:992px);
+
+@import url(../desktop/collection/collection-sm.css) only screen and ( min-width:576px) and (max-width:768px);
+
+@import url(../desktop/collection/collection-xs.css) only screen and (max-width:576px);
+
+
+
+
+@import url(./contact-us.css);
+
+
+
+
+@import url(../desktop/story/story-xxl.css) only screen and ( min-width:1400px);
+
+@import url(../desktop/story/story-xl.css) only screen and ( min-width:1200px) and (max-width:1400px);
+
+@import url(../desktop/story/story-lg.css) only screen and ( min-width:992px) and (max-width:1200px);
+
+@import url(../desktop/story/story-md.css) only screen and ( min-width:768px) and (max-width:992px);
+
+@import url(../desktop/story/story-sm.css) only screen and ( min-width:576px) and (max-width:768px);
+
+@import url(../desktop/story/story-xs.css) only screen and (max-width:576px);
+
+
+
+
+@import url(./contact-us.css);
+
+
+
+@import url(../desktop/rings/rings-xxl.css) only screen and ( min-width:1400px);
+
+@import url(../desktop/rings/rings-xl.css) only screen and ( min-width:1200px) and (max-width:1400px);
+
+@import url(../desktop/rings/rings-lg.css) only screen and ( min-width:992px) and (max-width:1200px);
+
+@import url(../desktop/rings/rings-md.css) only screen and ( min-width:768px) and (max-width:992px);
+
+@import url(../desktop/rings/rings-sm.css) only screen and ( min-width:576px) and (max-width:768px);
+
+@import url(../desktop/rings/rings-xs.css) only screen and (max-width:576px);
+
+
+
+
+@import url(../desktop/circle/circle-xxl.css);
+
+
+
+
+@import url(../desktop/wedding-ring.css/wedding-ring-xxl.css) only screen and ( min-width:1400px);
+
+@import url(../desktop/wedding-ring.css/wedding-ring-xl.css) only screen and ( min-width:1200px) and (max-width:1400px);
+
+@import url(../desktop/wedding-ring.css/wedding-ring-lg.css) only screen and ( min-width:992px) and (max-width:1200px);
+
+@import url(../desktop/wedding-ring.css/wedding-ring-md.css) only screen and ( min-width:768px) and (max-width:992px);
+
+@import url(../desktop/wedding-ring.css/wedding-ring-sm.css) only screen and ( min-width:576px) and (max-width:768px);
+
+@import url(../desktop/wedding-ring.css/wedding-ring-xs.css) only screen and (max-width:576px);
+
+
+
+
+@import url(../desktop/banner/banner-xxl.css) only screen and ( min-width:1400px);
+
+@import url(../desktop/banner/banner-xl.css) only screen and ( min-width:1200px) and (max-width:1400px);
+
+@import url(../desktop/banner/banner-lg.css) only screen and ( min-width:992px) and (max-width:1200px);
+
+@import url(../desktop/banner/banner-md.css) only screen and ( min-width:768px) and (max-width:992px);
+
+@import url(../desktop/banner/banner-sm.css) only screen and ( min-width:576px) and (max-width:768px);
+
+@import url(../desktop/banner/banner-xs.css) only screen and (max-width:576px);
+
+
+
+@import url(../desktop/swiper/swipere-xxl.css) only screen and ( min-width:1400px);
+
+@import url(../desktop/swiper/swiper-xl.css) only screen and ( min-width:1200px) and (max-width:1400px);
+
+@import url(../desktop/swiper/swiper-lg.css) only screen and ( min-width:992px) and (max-width:1200px);
+
+@import url(../desktop/swiper/swiper-md.css) only screen and ( min-width:768px) and (max-width:992px);
+
+@import url(../desktop/swiper/swiper-sm.css) only screen and ( min-width:576px) and (max-width:768px);
+
+@import url(../desktop/swiper/swiper-xs.css) only screen and (max-width:576px);
+
+
+
+
+@import url(../desktop/vedio/vedio-xxl.css) only screen and ( min-width:1400px);
+
+@import url(../desktop/vedio/vedio-xl.css) only screen and ( min-width:1200px) and (max-width:1400px);
+
+@import url(../desktop/vedio/vedio-lg.css) only screen and ( min-width:992px) and (max-width:1200px);
+
+@import url(../desktop/vedio/vedio-md.css) only screen and ( min-width:768px) and (max-width:992px);
+
+@import url(../desktop/vedio/vedio-sm.css) only screen and ( min-width:576px) and (max-width:768px);
+
+@import url(../desktop/vedio/vedio-xs.css) only screen and (max-width:576px);
+
+
+
+@import url(../desktop/footer/footer-xxl.css);
+
+
+
+/* 
+@import url(./brand/brand-xxl.css) only screen and ( min-width:1400px);
+
+@import url(./brand/brand-xl.css) only screen and ( min-width:1200px) and (max-width:1400px);
+
+@import url(./brand/brand-lg.css) only screen and ( min-width:992px) and (max-width:1200px);
+
+@import url(./brand/brand-md.css) only screen and ( min-width:768px) and (max-width:992px);
+
+@import url(./brand/brand-sm.css) only screen and ( min-width:576px) and (max-width:768px);
+
+@import url(./brand/brand-xs.css) only screen and (max-width:576px);
+
+@import url(./contact-us.css); */

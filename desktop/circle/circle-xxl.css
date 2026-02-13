@@ -1,0 +1,25 @@
+
+.text-circle{
+    display: grid;
+    justify-self: center;
+    padding-top: 200px;
+    padding-bottom: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+.circle {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+
+
+    img{
+        justify-self: center;
+        width: 10%;
+    }
+    
+}

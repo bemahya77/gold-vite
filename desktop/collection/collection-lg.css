@@ -1,0 +1,49 @@
+.section-text {
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+     p{
+        font-size: 20px;
+        font-weight: bold;
+        padding-top: 10px;
+     }
+}
+
+section {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+
+    img{
+        width:280px;
+        height: 550px;
+    }
+}
+
+aside {
+     display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding-bottom: 100px;
+
+    a{
+        text-decoration: none;
+        color: black;
+    }
+
+   
+    p{
+        justify-self: center;
+        font-size: 22px;
+        font-weight: bold;
+        color: black;
+
+         &:hover {
+        font-size: 32px;
+        color: rgb(101, 0, 0);
+    }
+
+    }
+}

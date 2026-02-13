@@ -1,0 +1,104 @@
+.story {
+  padding-top: 140px;
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 40px;
+
+  .cover {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .cover img {
+    width: 120%;
+    height: 300px;
+    justify-self: center;
+  }
+
+  .cover::after {
+    content: "Creating the story of your life";
+    background-color: rgba(255, 255, 255, 0.227);
+    width: 100%;
+    height: 99.2%;
+    position: absolute;
+    top: 0;
+    left: -100%;
+    color: rgb(20, 20, 20);
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 300px;
+    transition: ease-in-out all 0.5s;
+  }
+
+  .cover:hover::after {
+    left: 0%;
+  }
+
+  .text-story {
+    display: grid;
+
+    h2 {
+      justify-self: center;
+      font-size: 30px;
+      font-weight: bolder;
+    }
+
+    p {
+      justify-self: center;
+      padding-left: 30px;
+      padding-right: 5px;
+
+    }
+
+    a {
+      width: 150px;
+      height: 40px;
+      justify-self: center;
+      text-decoration: none;
+      background: rgba(252, 0, 0, 0.511);
+      border-radius: 8px;
+      border: 1px solid black;
+      color: black;
+      text-align: center;
+      padding-top: 10px;
+    }
+  }
+
+
+}
+
+.one {
+  width: 100%;
+  display: grid;
+  overflow: hidden;
+
+  img {
+    width: 50%;
+    height: 500px;
+    justify-self: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  &::after {
+    content: "";
+    background-color: rgba(111, 52, 166, 0.541);
+    width: 50%;
+    height: 500px;
+    position: absolute;
+    left: -100%;
+    color: white;
+    line-height: 500px;
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: center;
+    transition: ease-in-out all 500ms;
+    overflow: hidden;
+  }
+
+  &:hover::after {
+    left: 25%;
+  }
+}

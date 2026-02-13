@@ -1,0 +1,43 @@
+.wedding{
+    display: flex;
+    flex-flow: row nowrap;
+    direction: rtl;
+    padding-top:290px;
+
+    .wedding-ring{
+        display: flex;
+
+        img{
+            width: 300px;
+            height: 40vh;
+        }
+    }
+
+    .wedding-text{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        padding-right: 50px;
+
+
+
+        p{
+            font-size: 15px;
+            font-weight: lighter;
+            text-align: center;
+        }
+
+        a{
+            color: rgb(116, 0, 0);
+        }
+
+        h2{
+            font-size: 20px;
+            font-weight: bolder;
+        }
+    }
+}
+
+
